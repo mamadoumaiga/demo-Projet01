@@ -5,7 +5,7 @@ tot = 2500
 print(tot)
 
 print("Total = " + str(tot))
-nom = "Mamadou Abdoul Karim Maiga"
+nom = "Adidas Mingue"
 age = 62
 print("Je m'appelle "+nom+", j'ai "+str(age)+" ans")
 
